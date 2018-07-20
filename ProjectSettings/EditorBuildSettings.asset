@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Resource/Scence/Pre2.unity
+    guid: 4697967bac1901043b6964cefbfffe43
+  - enabled: 0
+    path: Assets/Resource/Scence/pre3.unity
+    guid: 5864e833e92c5e642963e9e94821bdd1
+  - enabled: 0
+    path: Assets/Resource/Scence/battle_Preparing.unity
+    guid: dc30cd4874c2ab1468e5bc86b0d60d38
+  - enabled: 0
+    path: Assets/Resource/Scence/pre1_withoutRenderTexture.unity
+    guid: 49cdad2348c10de409fa1690dc90fab0
+  - enabled: 1
+    path: Assets/Resource/Scence/test/StartUp.unity
+    guid: 5e1539c3cec1c34429949c7cb98df3d6
+  - enabled: 1
+    path: Assets/Resource/Scence/test/Pre2Test.unity
+    guid: 565973588af8d4844aff8a64033d21a6
+  - enabled: 1
+    path: Assets/Resource/Scence/test/battle_PreparingTest.unity
+    guid: 8347e4181a3ffa148a61c6105fec01e0
+  m_configObjects: {}

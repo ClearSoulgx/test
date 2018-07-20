@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: e69558bff01474148bb8e008714f4b81
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 166
+    100002: Accessory_Cloth_7
+    100004: Accessory_Cloth_7_Skin
+    100006: Bip001
+    100008: Bip001 Head
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger01
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L Hand
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L UpperArm
+    100042: Bip001 Neck
+    100044: Bip001 Pelvis
+    100046: Bip001 R Calf
+    100048: Bip001 R Clavicle
+    100050: Bip001 R Finger0
+    100052: Bip001 R Finger01
+    100054: Bip001 R Finger1
+    100056: Bip001 R Finger11
+    100058: Bip001 R Finger2
+    100060: Bip001 R Finger21
+    100062: Bip001 R Finger3
+    100064: Bip001 R Finger31
+    100066: Bip001 R Foot
+    100068: Bip001 R Forearm
+    100070: Bip001 R Hand
+    100072: Bip001 R Thigh
+    100074: Bip001 R Toe0
+    100076: Bip001 R UpperArm
+    100078: Bip001 Spine
+    100080: Bip001 Spine1
+    100082: Bip001 Spine2
+    100084: Bone002
+    100086: Bone003
+    100088: Bone003(mirrored)
+    100090: Bone004
+    100092: Bone004(mirrored)
+    100094: Bone005
+    100096: Bone005(mirrored)
+    100098: Bone008
+    100100: Bone008(mirrored)
+    100102: Bone009
+    100104: Bone009(mirrored)
+    100106: Bone010
+    100108: Bone010(mirrored)
+    100110: Bone011
+    100112: Bone011(mirrored)
+    100114: Bone012
+    100116: Bone012(mirrored)
+    100118: Bone013
+    100120: Bone013(mirrored)
+    100122: Bone015
+    100124: Bone016
+    100126: Bone017
+    100128: Bone018
+    100130: Bone019
+    100132: Bone022
+    100134: Bone023
+    100136: Bone024
+    100138: Bone025
+    100140: Bone026
+    100142: Bone027
+    100144: Bone028
+    100146: Bone030
+    100148: Bone031
+    100150: Bone052
+    100152: Bone052(mirrored)
+    100154: Bone053
+    100156: Bone053(mirrored)
+    100158: Bone054
+    100160: Bone054(mirrored)
+    100162: Bone055
+    100164: Bone055(mirrored)
+    100166: Bone057
+    100168: Bone057(mirrored)
+    100170: Bone058
+    100172: Bone058(mirrored)
+    100174: Bone059
+    100176: Bone059(mirrored)
+    100178: Bone060
+    100180: Bone060(mirrored)
+    100182: Bone061
+    100184: Bone061(mirrored)
+    100186: Bone069
+    100188: Bone070
+    100190: Bone071
+    100192: Bone072
+    100194: Bone073
+    100196: Bone075
+    100198: Bone076
+    100200: Bone077
+    100202: Bone078
+    100204: Bone079
+    100206: Bone085
+    100208: Bone085(mirrored)
+    100210: Bone086
+    100212: Bone086(mirrored)
+    100214: Bone087
+    100216: Bone087(mirrored)
+    100218: Bone091
+    100220: Bone091(mirrored)
+    100222: Bone092
+    100224: Bone092(mirrored)
+    100226: Bone094
+    100228: Bone103
+    100230: Bone103(mirrored)
+    100232: Bone104
+    100234: Bone104(mirrored)
+    100236: Bone105
+    100238: Bone105(mirrored)
+    100240: Bone106
+    100242: Bone106(mirrored)
+    100244: Bone107
+    100246: Bone107(mirrored)
+    100248: Bone113
+    100250: Bone113(mirrored)
+    100252: Bone114
+    100254: Bone114(mirrored)
+    100256: Bone115
+    100258: Bone117
+    100260: Bone117(mirrored)
+    100262: Bone118
+    100264: Bone118(mirrored)
+    100266: Bone119
+    100268: Bone119(mirrored)
+    100270: Bone120
+    100272: Bone120(mirrored)
+    100274: Bone127
+    100276: Bone128
+    100278: Bone129
+    100280: Bone130
+    100282: Bone131
+    100284: Bone132
+    100286: Bone133
+    100288: Bone141
+    100290: Bone142
+    100292: Bone143
+    100294: Bone144
+    100296: Bone145
+    100298: Bone150
+    100300: Bone151
+    100302: Bone152
+    100304: Bone153
+    100306: Bone154
+    100308: Bone155
+    100310: //RootNode
+    100312: Face_Brow_7
+    100314: Face_Ear_0
+    100316: Face_Eye_7
+    100318: Face_mouth_7
+    100320: Face_Nose_0
+    100322: Hair_Hair_7
+    100324: Accessory_Cloth_0
+    100326: Accessory_Cloth_0_Skin
+    100328: Accessory_Cloth_1
+    100330: Accessory_Cloth_10
+    100332: Accessory_Cloth_10_Skin
+    100334: Accessory_Cloth_11
+    100336: Accessory_Cloth_11_Skin
+    100338: Accessory_Cloth_1_Skin
+    100340: Accessory_Cloth_2
+    100342: Accessory_Cloth_2_Skin
+    100344: Accessory_Cloth_3
+    100346: Accessory_Cloth_3_Skin
+    100348: Accessory_Cloth_4
+    100350: Accessory_Cloth_4_Skin
+    100352: Accessory_Cloth_5
+    100354: Accessory_Cloth_5_Skin
+    100356: Accessory_Cloth_6
+    100358: Accessory_Cloth_6_Skin
+    100360: Accessory_Cloth_8
+    100362: Accessory_Cloth_8_Skin
+    100364: Accessory_Cloth_9
+    100366: Accessory_Cloth_9_Skin
+    100368: Bone006
+    100370: Bone006(mirrored)
+    100372: Bone020
+    100374: Bone029
+    100376: Bone056
+    100378: Bone056(mirrored)
+    100380: Bone093
+    100382: Bone093(mirrored)
+    100384: Bone095
+    100386: Bone096
+    100388: Bone097
+    100390: Bone098
+    100392: Bone101
+    100394: Bone102
+    100396: Bone108
+    100398: Bone109
+    100400: Bone110
+    100402: Bone111
+    100404: Bone115(mirrored)
+    100406: Bone116
+    100408: Bone121
+    100410: Bone121(mirrored)
+    100412: Bone134
+    100414: Bone146
+    100416: Bone156
+    100418: Bone165
+    100420: Face_Brow_0
+    100422: Face_Brow_1
+    100424: Face_Brow_10
+    100426: Face_Brow_11
+    100428: Face_Brow_2
+    100430: Face_Brow_3
+    100432: Face_Brow_4
+    100434: Face_Brow_5
+    100436: Face_Brow_6
+    100438: Face_Brow_8
+    100440: Face_Brow_9
+    100442: Face_Ear_0 1
+    100444: Face_Ear_0 10
+    100446: Face_Ear_0 11
+    100448: Face_Ear_0 2
+    100450: Face_Ear_0 3
+    100452: Face_Ear_0 4
+    100454: Face_Ear_0 5
+    100456: Face_Ear_0 6
+    100458: Face_Ear_0 7
+    100460: Face_Ear_0 8
+    100462: Face_Ear_0 9
+    100464: Face_Eye_0
+    100466: Face_Eye_1
+    100468: Face_Eye_10
+    100470: Face_Eye_11
+    100472: Face_Eye_2
+    100474: Face_Eye_3
+    100476: Face_Eye_4
+    100478: Face_Eye_5
+    100480: Face_Eye_6
+    100482: Face_Eye_8
+    100484: Face_Eye_9
+    100486: Face_Glass_1
+    100488: Face_Glass_2
+    100490: Face_Glass_3
+    100492: Face_Glass_5
+    100494: Face_Glass_8
+    100496: Face_mouth_0
+    100498: Face_mouth_1
+    100500: Face_mouth_10
+    100502: Face_mouth_11
+    100504: Face_mouth_2
+    100506: Face_mouth_3
+    100508: Face_mouth_4
+    100510: Face_mouth_5
+    100512: Face_mouth_6
+    100514: Face_mouth_8
+    100516: Face_mouth_9
+    100518: Face_Mustache_1
+    100520: Face_Mustache_2
+    100522: Face_Mustache_5
+    100524: Face_Mustache_6
+    100526: Face_Nose_0 1
+    100528: Face_Nose_0 10
+    100530: Face_Nose_0 11
+    100532: Face_Nose_0 2
+    100534: Face_Nose_0 3
+    100536: Face_Nose_0 4
+    100538: Face_Nose_0 5
+    100540: Face_Nose_0 6
+    100542: Face_Nose_0 7
+    100544: Face_Nose_0 8
+    100546: Face_Nose_0 9
+    100548: gai_wenshen
+    100550: Hair_Hair_0
+    100552: Hair_Hair_1
+    100554: Hair_Hair_10
+    100556: Hair_Hair_11
+    100558: Hair_Hair_2
+    100560: Hair_Hair_3
+    100562: Hair_Hair_4
+    100564: Hair_Hair_5
+    100566: Hair_Hair_6
+    100568: Hair_Hair_8
+    100570: Hair_Hair_9
+    100572: Object002
+    100574: tattoo002
+    400000: 166
+    400002: Accessory_Cloth_7
+    400004: Accessory_Cloth_7_Skin
+    400006: Bip001
+    400008: Bip001 Head
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger01
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L Hand
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L UpperArm
+    400042: Bip001 Neck
+    400044: Bip001 Pelvis
+    400046: Bip001 R Calf
+    400048: Bip001 R Clavicle
+    400050: Bip001 R Finger0
+    400052: Bip001 R Finger01
+    400054: Bip001 R Finger1
+    400056: Bip001 R Finger11
+    400058: Bip001 R Finger2
+    400060: Bip001 R Finger21
+    400062: Bip001 R Finger3
+    400064: Bip001 R Finger31
+    400066: Bip001 R Foot
+    400068: Bip001 R Forearm
+    400070: Bip001 R Hand
+    400072: Bip001 R Thigh
+    400074: Bip001 R Toe0
+    400076: Bip001 R UpperArm
+    400078: Bip001 Spine
+    400080: Bip001 Spine1
+    400082: Bip001 Spine2
+    400084: Bone002
+    400086: Bone003
+    400088: Bone003(mirrored)
+    400090: Bone004
+    400092: Bone004(mirrored)
+    400094: Bone005
+    400096: Bone005(mirrored)
+    400098: Bone008
+    400100: Bone008(mirrored)
+    400102: Bone009
+    400104: Bone009(mirrored)
+    400106: Bone010
+    400108: Bone010(mirrored)
+    400110: Bone011
+    400112: Bone011(mirrored)
+    400114: Bone012
+    400116: Bone012(mirrored)
+    400118: Bone013
+    400120: Bone013(mirrored)
+    400122: Bone015
+    400124: Bone016
+    400126: Bone017
+    400128: Bone018
+    400130: Bone019
+    400132: Bone022
+    400134: Bone023
+    400136: Bone024
+    400138: Bone025
+    400140: Bone026
+    400142: Bone027
+    400144: Bone028
+    400146: Bone030
+    400148: Bone031
+    400150: Bone052
+    400152: Bone052(mirrored)
+    400154: Bone053
+    400156: Bone053(mirrored)
+    400158: Bone054
+    400160: Bone054(mirrored)
+    400162: Bone055
+    400164: Bone055(mirrored)
+    400166: Bone057
+    400168: Bone057(mirrored)
+    400170: Bone058
+    400172: Bone058(mirrored)
+    400174: Bone059
+    400176: Bone059(mirrored)
+    400178: Bone060
+    400180: Bone060(mirrored)
+    400182: Bone061
+    400184: Bone061(mirrored)
+    400186: Bone069
+    400188: Bone070
+    400190: Bone071
+    400192: Bone072
+    400194: Bone073
+    400196: Bone075
+    400198: Bone076
+    400200: Bone077
+    400202: Bone078
+    400204: Bone079
+    400206: Bone085
+    400208: Bone085(mirrored)
+    400210: Bone086
+    400212: Bone086(mirrored)
+    400214: Bone087
+    400216: Bone087(mirrored)
+    400218: Bone091
+    400220: Bone091(mirrored)
+    400222: Bone092
+    400224: Bone092(mirrored)
+    400226: Bone094
+    400228: Bone103
+    400230: Bone103(mirrored)
+    400232: Bone104
+    400234: Bone104(mirrored)
+    400236: Bone105
+    400238: Bone105(mirrored)
+    400240: Bone106
+    400242: Bone106(mirrored)
+    400244: Bone107
+    400246: Bone107(mirrored)
+    400248: Bone113
+    400250: Bone113(mirrored)
+    400252: Bone114
+    400254: Bone114(mirrored)
+    400256: Bone115
+    400258: Bone117
+    400260: Bone117(mirrored)
+    400262: Bone118
+    400264: Bone118(mirrored)
+    400266: Bone119
+    400268: Bone119(mirrored)
+    400270: Bone120
+    400272: Bone120(mirrored)
+    400274: Bone127
+    400276: Bone128
+    400278: Bone129
+    400280: Bone130
+    400282: Bone131
+    400284: Bone132
+    400286: Bone133
+    400288: Bone141
+    400290: Bone142
+    400292: Bone143
+    400294: Bone144
+    400296: Bone145
+    400298: Bone150
+    400300: Bone151
+    400302: Bone152
+    400304: Bone153
+    400306: Bone154
+    400308: Bone155
+    400310: //RootNode
+    400312: Face_Brow_7
+    400314: Face_Ear_0
+    400316: Face_Eye_7
+    400318: Face_mouth_7
+    400320: Face_Nose_0
+    400322: Hair_Hair_7
+    400324: Accessory_Cloth_0
+    400326: Accessory_Cloth_0_Skin
+    400328: Accessory_Cloth_1
+    400330: Accessory_Cloth_10
+    400332: Accessory_Cloth_10_Skin
+    400334: Accessory_Cloth_11
+    400336: Accessory_Cloth_11_Skin
+    400338: Accessory_Cloth_1_Skin
+    400340: Accessory_Cloth_2
+    400342: Accessory_Cloth_2_Skin
+    400344: Accessory_Cloth_3
+    400346: Accessory_Cloth_3_Skin
+    400348: Accessory_Cloth_4
+    400350: Accessory_Cloth_4_Skin
+    400352: Accessory_Cloth_5
+    400354: Accessory_Cloth_5_Skin
+    400356: Accessory_Cloth_6
+    400358: Accessory_Cloth_6_Skin
+    400360: Accessory_Cloth_8
+    400362: Accessory_Cloth_8_Skin
+    400364: Accessory_Cloth_9
+    400366: Accessory_Cloth_9_Skin
+    400368: Bone006
+    400370: Bone006(mirrored)
+    400372: Bone020
+    400374: Bone029
+    400376: Bone056
+    400378: Bone056(mirrored)
+    400380: Bone093
+    400382: Bone093(mirrored)
+    400384: Bone095
+    400386: Bone096
+    400388: Bone097
+    400390: Bone098
+    400392: Bone101
+    400394: Bone102
+    400396: Bone108
+    400398: Bone109
+    400400: Bone110
+    400402: Bone111
+    400404: Bone115(mirrored)
+    400406: Bone116
+    400408: Bone121
+    400410: Bone121(mirrored)
+    400412: Bone134
+    400414: Bone146
+    400416: Bone156
+    400418: Bone165
+    400420: Face_Brow_0
+    400422: Face_Brow_1
+    400424: Face_Brow_10
+    400426: Face_Brow_11
+    400428: Face_Brow_2
+    400430: Face_Brow_3
+    400432: Face_Brow_4
+    400434: Face_Brow_5
+    400436: Face_Brow_6
+    400438: Face_Brow_8
+    400440: Face_Brow_9
+    400442: Face_Ear_0 1
+    400444: Face_Ear_0 10
+    400446: Face_Ear_0 11
+    400448: Face_Ear_0 2
+    400450: Face_Ear_0 3
+    400452: Face_Ear_0 4
+    400454: Face_Ear_0 5
+    400456: Face_Ear_0 6
+    400458: Face_Ear_0 7
+    400460: Face_Ear_0 8
+    400462: Face_Ear_0 9
+    400464: Face_Eye_0
+    400466: Face_Eye_1
+    400468: Face_Eye_10
+    400470: Face_Eye_11
+    400472: Face_Eye_2
+    400474: Face_Eye_3
+    400476: Face_Eye_4
+    400478: Face_Eye_5
+    400480: Face_Eye_6
+    400482: Face_Eye_8
+    400484: Face_Eye_9
+    400486: Face_Glass_1
+    400488: Face_Glass_2
+    400490: Face_Glass_3
+    400492: Face_Glass_5
+    400494: Face_Glass_8
+    400496: Face_mouth_0
+    400498: Face_mouth_1
+    400500: Face_mouth_10
+    400502: Face_mouth_11
+    400504: Face_mouth_2
+    400506: Face_mouth_3
+    400508: Face_mouth_4
+    400510: Face_mouth_5
+    400512: Face_mouth_6
+    400514: Face_mouth_8
+    400516: Face_mouth_9
+    400518: Face_Mustache_1
+    400520: Face_Mustache_2
+    400522: Face_Mustache_5
+    400524: Face_Mustache_6
+    400526: Face_Nose_0 1
+    400528: Face_Nose_0 10
+    400530: Face_Nose_0 11
+    400532: Face_Nose_0 2
+    400534: Face_Nose_0 3
+    400536: Face_Nose_0 4
+    400538: Face_Nose_0 5
+    400540: Face_Nose_0 6
+    400542: Face_Nose_0 7
+    400544: Face_Nose_0 8
+    400546: Face_Nose_0 9
+    400548: gai_wenshen
+    400550: Hair_Hair_0
+    400552: Hair_Hair_1
+    400554: Hair_Hair_10
+    400556: Hair_Hair_11
+    400558: Hair_Hair_2
+    400560: Hair_Hair_3
+    400562: Hair_Hair_4
+    400564: Hair_Hair_5
+    400566: Hair_Hair_6
+    400568: Hair_Hair_8
+    400570: Hair_Hair_9
+    400572: Object002
+    400574: tattoo002
+    4300000: Accessory_Cloth_7_Skin
+    4300002: Face_Nose_0
+    4300004: Accessory_Cloth_7
+    4300006: Hair_Hair_7
+    4300008: Face_Eye_7
+    4300010: Face_mouth_7
+    4300012: Face_Brow_7
+    4300014: Face_Ear_0
+    4300016: Accessory_Cloth_0_Skin
+    4300018: Accessory_Cloth_0
+    4300020: Face_Brow_0
+    4300022: Face_Eye_0
+    4300024: Face_mouth_0
+    4300026: Hair_Hair_0
+    4300028: Accessory_Cloth_1_Skin
+    4300030: Face_Nose_0
+    4300032: Hair_Hair_1
+    4300034: Face_mouth_1
+    4300036: Face_Brow_1
+    4300038: Face_Eye_1
+    4300040: Face_Mustache_1
+    4300042: Face_Glass_1
+    4300044: Accessory_Cloth_1
+    4300046: Face_Ear_0
+    4300048: Accessory_Cloth_10_Skin
+    4300050: Face_Nose_0
+    4300052: Accessory_Cloth_10
+    4300054: Hair_Hair_10
+    4300056: Face_mouth_10
+    4300058: Face_Eye_10
+    4300060: Face_Brow_10
+    4300062: Face_Ear_0
+    4300064: Accessory_Cloth_11_Skin
+    4300066: Face_Nose_0
+    4300068: Hair_Hair_11
+    4300070: Accessory_Cloth_11
+    4300072: Face_Eye_11
+    4300074: Face_Brow_11
+    4300076: Face_mouth_11
+    4300078: Face_Ear_0
+    4300080: Object002
+    4300082: Accessory_Cloth_2_Skin
+    4300084: Face_Nose_0
+    4300086: Accessory_Cloth_2
+    4300088: Face_Glass_2
+    4300090: Hair_Hair_2
+    4300092: Face_mouth_2
+    4300094: Face_Mustache_2
+    4300096: Face_Brow_2
+    4300098: Face_Eye_2
+    4300100: Face_Ear_0
+    4300102: Accessory_Cloth_3_Skin
+    4300104: Face_Nose_0
+    4300106: Hair_Hair_3
+    4300108: Face_Brow_3
+    4300110: Face_mouth_3
+    4300112: Face_Glass_3
+    4300114: Accessory_Cloth_3
+    4300116: Face_Eye_3
+    4300118: Face_Ear_0
+    4300120: Accessory_Cloth_4_Skin
+    4300122: Face_Nose_0
+    4300124: Face_mouth_4
+    4300126: Face_Brow_4
+    4300128: Face_Eye_4
+    4300130: Hair_Hair_4
+    4300132: Accessory_Cloth_4
+    4300134: Face_Ear_0
+    4300136: Accessory_Cloth_5_Skin
+    4300138: Face_Nose_0
+    4300140: Accessory_Cloth_5
+    4300142: Face_Mustache_5
+    4300144: Face_Ear_0
+    4300146: gai_wenshen
+    4300148: Face_mouth_5
+    4300150: Face_Brow_5
+    4300152: Face_Eye_5
+    4300154: Face_Glass_5
+    4300156: Hair_Hair_5
+    4300158: Accessory_Cloth_6_Skin
+    4300160: Face_Nose_0
+    4300162: Hair_Hair_6
+    4300164: Accessory_Cloth_6
+    4300166: Face_mouth_6
+    4300168: Face_Brow_6
+    4300170: Face_Eye_6
+    4300172: Face_Mustache_6
+    4300174: Face_Ear_0
+    4300176: Face_Nose_0
+    4300178: Face_Ear_0
+    4300180: Accessory_Cloth_8_Skin
+    4300182: Face_Nose_0
+    4300184: Accessory_Cloth_8
+    4300186: Hair_Hair_8
+    4300188: Face_Glass_8
+    4300190: Face_Brow_8
+    4300192: Face_mouth_8
+    4300194: Face_Eye_8
+    4300196: Face_Ear_0
+    4300198: Accessory_Cloth_9_Skin
+    4300200: Face_Nose_0
+    4300202: Accessory_Cloth_9
+    4300204: Face_mouth_9
+    4300206: Face_Eye_9
+    4300208: tattoo002
+    4300210: Hair_Hair_9
+    4300212: Face_Brow_9
+    4300214: Face_Ear_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Accessory_Cloth_7
+    13700002: Accessory_Cloth_7_Skin
+    13700004: Face_Brow_7
+    13700006: Face_Ear_0
+    13700008: Face_Eye_7
+    13700010: Face_mouth_7
+    13700012: Face_Nose_0
+    13700014: Hair_Hair_7
+    13700016: Accessory_Cloth_0
+    13700018: Accessory_Cloth_0_Skin
+    13700020: Accessory_Cloth_1
+    13700022: Accessory_Cloth_10
+    13700024: Accessory_Cloth_10_Skin
+    13700026: Accessory_Cloth_11
+    13700028: Accessory_Cloth_11_Skin
+    13700030: Accessory_Cloth_1_Skin
+    13700032: Accessory_Cloth_2
+    13700034: Accessory_Cloth_2_Skin
+    13700036: Accessory_Cloth_3
+    13700038: Accessory_Cloth_3_Skin
+    13700040: Accessory_Cloth_4
+    13700042: Accessory_Cloth_4_Skin
+    13700044: Accessory_Cloth_5
+    13700046: Accessory_Cloth_5_Skin
+    13700048: Accessory_Cloth_6
+    13700050: Accessory_Cloth_6_Skin
+    13700052: Accessory_Cloth_8
+    13700054: Accessory_Cloth_8_Skin
+    13700056: Accessory_Cloth_9
+    13700058: Accessory_Cloth_9_Skin
+    13700060: Face_Brow_0
+    13700062: Face_Brow_1
+    13700064: Face_Brow_10
+    13700066: Face_Brow_11
+    13700068: Face_Brow_2
+    13700070: Face_Brow_3
+    13700072: Face_Brow_4
+    13700074: Face_Brow_5
+    13700076: Face_Brow_6
+    13700078: Face_Brow_8
+    13700080: Face_Brow_9
+    13700082: Face_Ear_0 1
+    13700084: Face_Ear_0 10
+    13700086: Face_Ear_0 11
+    13700088: Face_Ear_0 2
+    13700090: Face_Ear_0 3
+    13700092: Face_Ear_0 4
+    13700094: Face_Ear_0 5
+    13700096: Face_Ear_0 6
+    13700098: Face_Ear_0 7
+    13700100: Face_Ear_0 8
+    13700102: Face_Ear_0 9
+    13700104: Face_Eye_0
+    13700106: Face_Eye_1
+    13700108: Face_Eye_10
+    13700110: Face_Eye_11
+    13700112: Face_Eye_2
+    13700114: Face_Eye_3
+    13700116: Face_Eye_4
+    13700118: Face_Eye_5
+    13700120: Face_Eye_6
+    13700122: Face_Eye_8
+    13700124: Face_Eye_9
+    13700126: Face_Glass_1
+    13700128: Face_Glass_2
+    13700130: Face_Glass_3
+    13700132: Face_Glass_5
+    13700134: Face_Glass_8
+    13700136: Face_mouth_0
+    13700138: Face_mouth_1
+    13700140: Face_mouth_10
+    13700142: Face_mouth_11
+    13700144: Face_mouth_2
+    13700146: Face_mouth_3
+    13700148: Face_mouth_4
+    13700150: Face_mouth_5
+    13700152: Face_mouth_6
+    13700154: Face_mouth_8
+    13700156: Face_mouth_9
+    13700158: Face_Mustache_1
+    13700160: Face_Mustache_2
+    13700162: Face_Mustache_5
+    13700164: Face_Mustache_6
+    13700166: Face_Nose_0 1
+    13700168: Face_Nose_0 10
+    13700170: Face_Nose_0 11
+    13700172: Face_Nose_0 2
+    13700174: Face_Nose_0 3
+    13700176: Face_Nose_0 4
+    13700178: Face_Nose_0 5
+    13700180: Face_Nose_0 6
+    13700182: Face_Nose_0 7
+    13700184: Face_Nose_0 8
+    13700186: Face_Nose_0 9
+    13700188: gai_wenshen
+    13700190: Hair_Hair_0
+    13700192: Hair_Hair_1
+    13700194: Hair_Hair_10
+    13700196: Hair_Hair_11
+    13700198: Hair_Hair_2
+    13700200: Hair_Hair_3
+    13700202: Hair_Hair_4
+    13700204: Hair_Hair_5
+    13700206: Hair_Hair_6
+    13700208: Hair_Hair_8
+    13700210: Hair_Hair_9
+    13700212: Object002
+    13700214: tattoo002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_0
+    second: {fileID: 2100000, guid: 37dd95e27d4982647a9f1aa25fb3b9ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_1
+    second: {fileID: 2100000, guid: efb4560efc4b4be47aaa2a7d9be1fa85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_10
+    second: {fileID: 2100000, guid: dd93f38297982c94faba8a123f1498d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_11
+    second: {fileID: 2100000, guid: 3017b08b613d32e46af48b358eea7fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_2
+    second: {fileID: 2100000, guid: aaf6374f3d8869d4889b10e8d9ec1872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_3
+    second: {fileID: 2100000, guid: ed276e32737140a47b4b6f2abdf86da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_4
+    second: {fileID: 2100000, guid: c829673e8fc1d9041948d047814036af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_5
+    second: {fileID: 2100000, guid: 88bae6c0f35255d48ab5eed4f1affcb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_6
+    second: {fileID: 2100000, guid: 5f27f7edc59a3de4f99c7b32eee88f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_7
+    second: {fileID: 2100000, guid: 7be1365d85fc3eb4fbe0d53b65534c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_8
+    second: {fileID: 2100000, guid: 9b10bbaa5bad00f46a7d23a2064b17a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory_Cloth_9
+    second: {fileID: 2100000, guid: daec4a78ca1963c4c84947e5ae1dfd45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_0
+    second: {fileID: 2100000, guid: 1a9529aede3fe394cbbade87155b8230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_1
+    second: {fileID: 2100000, guid: f13874f1cc89eae4a8fea049fe0187d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_10
+    second: {fileID: 2100000, guid: f9381c94e7e53f74094aeda156e22dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_11
+    second: {fileID: 2100000, guid: 0036b846d8d7d074abe723cf0d162084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_2
+    second: {fileID: 2100000, guid: c87c45ca99e44294fad9e71ff904e58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_3
+    second: {fileID: 2100000, guid: d6e64191d04076541b84c7af85b5cb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_4
+    second: {fileID: 2100000, guid: 2219cc7be8cc7b84fa8706d3701f752a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_5
+    second: {fileID: 2100000, guid: 7f8415c93616db248af28dc1f9638934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_6
+    second: {fileID: 2100000, guid: d2abcdb4a3c37b445ab653de6f7e82e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_7
+    second: {fileID: 2100000, guid: e7c041e3e7ca2fe4fbab033ad935346a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_8
+    second: {fileID: 2100000, guid: eb2eca30ac22ee548a0661cceb127565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Brow_9
+    second: {fileID: 2100000, guid: f08388bb90d88bc4394126629580c4c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Ear_0
+    second: {fileID: 2100000, guid: 40384773e3f4d7749992e3444c5f106e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_0
+    second: {fileID: 2100000, guid: 908a4aee945a54642ad5b595777eccfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_1
+    second: {fileID: 2100000, guid: 992debea77bb8e34db7be7c75c985458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_10_Alpha
+    second: {fileID: 2100000, guid: 9cc48b66e37e10e4b949eccc5a329367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_11
+    second: {fileID: 2100000, guid: c4b7dbc6dfd7e08479b0b23a218686e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_2
+    second: {fileID: 2100000, guid: 4ec5a1c426d21c943811ce5452dc982b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_3
+    second: {fileID: 2100000, guid: ac9dc10a4ec15f74cbb5f583e5b7e16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_4
+    second: {fileID: 2100000, guid: 1a11b10eb9866fb449d2f7798f3777ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_5
+    second: {fileID: 2100000, guid: 219648937bb0a6f488451486e3a895d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_6
+    second: {fileID: 2100000, guid: 452e7fc6729c23f4298210a09cabba89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_7
+    second: {fileID: 2100000, guid: 7364ede65c3eaa2448e093484af0fb18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_8
+    second: {fileID: 2100000, guid: fe8f787faeecd124cbd4cb56f122c44f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Eye_9
+    second: {fileID: 2100000, guid: a4ac568fe195c614b8ebeda2501e9659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Mustache_1
+    second: {fileID: 2100000, guid: eaaea18daabd4614585d641199d7e6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Mustache_2
+    second: {fileID: 2100000, guid: 79340006d02ae0f4c95ec09e362a268a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Mustache_5
+    second: {fileID: 2100000, guid: 6c463492e657e284cb3ac3088af2d0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_Mustache_6
+    second: {fileID: 2100000, guid: 95004b4768b325f4eb46ad91d7cbee57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_0_Alpha
+    second: {fileID: 2100000, guid: b4b760ea3881ddd4bae48c623d09959a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_1
+    second: {fileID: 2100000, guid: b50d27a88153dcd4da4fe72caa796b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_10_Alpha
+    second: {fileID: 2100000, guid: 79a21f36792566743ac7c5f45b6184c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_11
+    second: {fileID: 2100000, guid: c506065c6a650384686dc7a5e13a5cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_2
+    second: {fileID: 2100000, guid: e408b520aeab8d840a167b1bd84e15e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_3
+    second: {fileID: 2100000, guid: f144e95be19716f43a244ca4fc9988f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_4
+    second: {fileID: 2100000, guid: f0377641f120e23489d2c29e8242517c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_5
+    second: {fileID: 2100000, guid: ca677cbf6c4b77943a15d3f24a52a0dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_6
+    second: {fileID: 2100000, guid: 2e97645a865d0e84b832170ff987ca99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_7
+    second: {fileID: 2100000, guid: 61757940f618b44439dbe5d861aa73b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_8
+    second: {fileID: 2100000, guid: a075684ac48f01f4b9f76c82001f1c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_mouth_9
+    second: {fileID: 2100000, guid: c090ddd10e56a8e4c9dcf81188bdd59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_0
+    second: {fileID: 2100000, guid: cf9517c32c8d8584ea52c942bb7013ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_1
+    second: {fileID: 2100000, guid: 55532e64126e9a04d91f950516763a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_10
+    second: {fileID: 2100000, guid: 60e82ebd2bccfdc43bfe372572f907d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_11
+    second: {fileID: 2100000, guid: aeb6dc2da0d943d4ab4216596c6e03df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_2
+    second: {fileID: 2100000, guid: 1fd31cb4023a9a64ca049c7b7c99600a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_3
+    second: {fileID: 2100000, guid: 81219acd804957c4e819e6ea0f66b649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_4
+    second: {fileID: 2100000, guid: 61968caca9bdc8643bc6f523fd6139b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_5
+    second: {fileID: 2100000, guid: d2eda3f1cbbc9e34f91905b398f1a553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_6
+    second: {fileID: 2100000, guid: ff81f1d991c102442adfb75742055033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_7
+    second: {fileID: 2100000, guid: d29c3a33455a5d9429b658cf273450c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_8
+    second: {fileID: 2100000, guid: ea191c1d6b0acd844b8167647fcc1ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Hair_9
+    second: {fileID: 2100000, guid: 7d8931f02c4193040bb28fad126fb7ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin_skin_1
+    second: {fileID: 2100000, guid: c5a96bb4471814743ae9bbfffd9e46d0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.1
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

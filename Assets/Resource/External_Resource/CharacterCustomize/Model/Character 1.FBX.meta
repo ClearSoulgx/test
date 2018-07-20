@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: d720e427af0bdb3418c3912ca0345fa0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 166
+    100002: Accessory_Cloth_0
+    100004: Accessory_Cloth_0_Skin
+    100006: Accessory_Cloth_1
+    100008: Accessory_Cloth_10
+    100010: Accessory_Cloth_10_Skin
+    100012: Accessory_Cloth_11
+    100014: Accessory_Cloth_11_Skin
+    100016: Accessory_Cloth_1_Skin
+    100018: Accessory_Cloth_2
+    100020: Accessory_Cloth_2_Skin
+    100022: Accessory_Cloth_3
+    100024: Accessory_Cloth_3_Skin
+    100026: Accessory_Cloth_4
+    100028: Accessory_Cloth_4_Skin
+    100030: Accessory_Cloth_5
+    100032: Accessory_Cloth_5_Skin
+    100034: Accessory_Cloth_6
+    100036: Accessory_Cloth_6_Skin
+    100038: Accessory_Cloth_7
+    100040: Accessory_Cloth_7_Skin
+    100042: Accessory_Cloth_8
+    100044: Accessory_Cloth_8_Skin
+    100046: Accessory_Cloth_9
+    100048: Accessory_Cloth_9_Skin
+    100050: Bip001
+    100052: Bip001 Head
+    100054: Bip001 L Calf
+    100056: Bip001 L Clavicle
+    100058: Bip001 L Finger0
+    100060: Bip001 L Finger01
+    100062: Bip001 L Finger1
+    100064: Bip001 L Finger11
+    100066: Bip001 L Finger2
+    100068: Bip001 L Finger21
+    100070: Bip001 L Finger3
+    100072: Bip001 L Finger31
+    100074: Bip001 L Foot
+    100076: Bip001 L Forearm
+    100078: Bip001 L Hand
+    100080: Bip001 L Thigh
+    100082: Bip001 L Toe0
+    100084: Bip001 L UpperArm
+    100086: Bip001 Neck
+    100088: Bip001 Pelvis
+    100090: Bip001 R Calf
+    100092: Bip001 R Clavicle
+    100094: Bip001 R Finger0
+    100096: Bip001 R Finger01
+    100098: Bip001 R Finger1
+    100100: Bip001 R Finger11
+    100102: Bip001 R Finger2
+    100104: Bip001 R Finger21
+    100106: Bip001 R Finger3
+    100108: Bip001 R Finger31
+    100110: Bip001 R Foot
+    100112: Bip001 R Forearm
+    100114: Bip001 R Hand
+    100116: Bip001 R Thigh
+    100118: Bip001 R Toe0
+    100120: Bip001 R UpperArm
+    100122: Bip001 Spine
+    100124: Bip001 Spine1
+    100126: Bip001 Spine2
+    100128: Bone002
+    100130: Bone003
+    100132: Bone003(mirrored)
+    100134: Bone004
+    100136: Bone004(mirrored)
+    100138: Bone005
+    100140: Bone005(mirrored)
+    100142: Bone006
+    100144: Bone006(mirrored)
+    100146: Bone008
+    100148: Bone008(mirrored)
+    100150: Bone009
+    100152: Bone009(mirrored)
+    100154: Bone010
+    100156: Bone010(mirrored)
+    100158: Bone011
+    100160: Bone011(mirrored)
+    100162: Bone012
+    100164: Bone012(mirrored)
+    100166: Bone013
+    100168: Bone013(mirrored)
+    100170: Bone015
+    100172: Bone016
+    100174: Bone017
+    100176: Bone018
+    100178: Bone019
+    100180: Bone020
+    100182: Bone022
+    100184: Bone023
+    100186: Bone024
+    100188: Bone025
+    100190: Bone026
+    100192: Bone027
+    100194: Bone028
+    100196: Bone029
+    100198: Bone030
+    100200: Bone031
+    100202: Bone052
+    100204: Bone052(mirrored)
+    100206: Bone053
+    100208: Bone053(mirrored)
+    100210: Bone054
+    100212: Bone054(mirrored)
+    100214: Bone055
+    100216: Bone055(mirrored)
+    100218: Bone056
+    100220: Bone056(mirrored)
+    100222: Bone057
+    100224: Bone057(mirrored)
+    100226: Bone058
+    100228: Bone058(mirrored)
+    100230: Bone059
+    100232: Bone059(mirrored)
+    100234: Bone060
+    100236: Bone060(mirrored)
+    100238: Bone061
+    100240: Bone061(mirrored)
+    100242: Bone069
+    100244: Bone070
+    100246: Bone071
+    100248: Bone072
+    100250: Bone073
+    100252: Bone075
+    100254: Bone076
+    100256: Bone077
+    100258: Bone078
+    100260: Bone079
+    100262: Bone085
+    100264: Bone085(mirrored)
+    100266: Bone086
+    100268: Bone086(mirrored)
+    100270: Bone087
+    100272: Bone087(mirrored)
+    100274: Bone091
+    100276: Bone091(mirrored)
+    100278: Bone092
+    100280: Bone092(mirrored)
+    100282: Bone093
+    100284: Bone093(mirrored)
+    100286: Bone094
+    100288: Bone095
+    100290: Bone096
+    100292: Bone097
+    100294: Bone098
+    100296: Bone101
+    100298: Bone102
+    100300: Bone103
+    100302: Bone103(mirrored)
+    100304: Bone104
+    100306: Bone104(mirrored)
+    100308: Bone105
+    100310: Bone105(mirrored)
+    100312: Bone106
+    100314: Bone106(mirrored)
+    100316: Bone107
+    100318: Bone107(mirrored)
+    100320: Bone108
+    100322: Bone109
+    100324: Bone110
+    100326: Bone111
+    100328: Bone113
+    100330: Bone113(mirrored)
+    100332: Bone114
+    100334: Bone114(mirrored)
+    100336: Bone115
+    100338: Bone115(mirrored)
+    100340: Bone116
+    100342: Bone117
+    100344: Bone117(mirrored)
+    100346: Bone118
+    100348: Bone118(mirrored)
+    100350: Bone119
+    100352: Bone119(mirrored)
+    100354: Bone120
+    100356: Bone120(mirrored)
+    100358: Bone121
+    100360: Bone121(mirrored)
+    100362: Bone127
+    100364: Bone128
+    100366: Bone129
+    100368: Bone130
+    100370: Bone131
+    100372: Bone132
+    100374: Bone133
+    100376: Bone134
+    100378: Bone141
+    100380: Bone142
+    100382: Bone143
+    100384: Bone144
+    100386: Bone145
+    100388: Bone146
+    100390: Bone150
+    100392: Bone151
+    100394: Bone152
+    100396: Bone153
+    100398: Bone154
+    100400: Bone155
+    100402: Bone156
+    100404: Bone165
+    100406: //RootNode
+    100408: Face_Brow_0
+    100410: Face_Brow_1
+    100412: Face_Brow_10
+    100414: Face_Brow_11
+    100416: Face_Brow_2
+    100418: Face_Brow_3
+    100420: Face_Brow_4
+    100422: Face_Brow_5
+    100424: Face_Brow_6
+    100426: Face_Brow_7
+    100428: Face_Brow_8
+    100430: Face_Brow_9
+    100432: Face_Ear_0
+    100434: Face_Ear_0 1
+    100436: Face_Ear_0 10
+    100438: Face_Ear_0 11
+    100440: Face_Ear_0 2
+    100442: Face_Ear_0 3
+    100444: Face_Ear_0 4
+    100446: Face_Ear_0 5
+    100448: Face_Ear_0 6
+    100450: Face_Ear_0 7
+    100452: Face_Ear_0 8
+    100454: Face_Ear_0 9
+    100456: Face_Eye_0
+    100458: Face_Eye_1
+    100460: Face_Eye_10
+    100462: Face_Eye_11
+    100464: Face_Eye_2
+    100466: Face_Eye_3
+    100468: Face_Eye_4
+    100470: Face_Eye_5
+    100472: Face_Eye_6
+    100474: Face_Eye_7
+    100476: Face_Eye_8
+    100478: Face_Eye_9
+    100480: Face_Glass_1
+    100482: Face_Glass_2
+    100484: Face_Glass_3
+    100486: Face_Glass_5
+    100488: Face_Glass_8
+    100490: Face_mouth_0
+    100492: Face_mouth_1
+    100494: Face_mouth_10
+    100496: Face_mouth_11
+    100498: Face_mouth_2
+    100500: Face_mouth_3
+    100502: Face_mouth_4
+    100504: Face_mouth_5
+    100506: Face_mouth_6
+    100508: Face_mouth_7
+    100510: Face_mouth_8
+    100512: Face_mouth_9
+    100514: Face_Mustache_1
+    100516: Face_Mustache_2
+    100518: Face_Mustache_5
+    100520: Face_Mustache_6
+    100522: Face_Nose_0
+    100524: Face_Nose_0 1
+    100526: Face_Nose_0 10
+    100528: Face_Nose_0 11
+    100530: Face_Nose_0 2
+    100532: Face_Nose_0 3
+    100534: Face_Nose_0 4
+    100536: Face_Nose_0 5
+    100538: Face_Nose_0 6
+    100540: Face_Nose_0 7
+    100542: Face_Nose_0 8
+    100544: Face_Nose_0 9
+    100546: gai_wenshen
+    100548: Hair_Hair_0
+    100550: Hair_Hair_1
+    100552: Hair_Hair_10
+    100554: Hair_Hair_11
+    100556: Hair_Hair_2
+    100558: Hair_Hair_3
+    100560: Hair_Hair_4
+    100562: Hair_Hair_5
+    100564: Hair_Hair_6
+    100566: Hair_Hair_7
+    100568: Hair_Hair_8
+    100570: Hair_Hair_9
+    100572: tattoo002
+    400000: 166
+    400002: Accessory_Cloth_0
+    400004: Accessory_Cloth_0_Skin
+    400006: Accessory_Cloth_1
+    400008: Accessory_Cloth_10
+    400010: Accessory_Cloth_10_Skin
+    400012: Accessory_Cloth_11
+    400014: Accessory_Cloth_11_Skin
+    400016: Accessory_Cloth_1_Skin
+    400018: Accessory_Cloth_2
+    400020: Accessory_Cloth_2_Skin
+    400022: Accessory_Cloth_3
+    400024: Accessory_Cloth_3_Skin
+    400026: Accessory_Cloth_4
+    400028: Accessory_Cloth_4_Skin
+    400030: Accessory_Cloth_5
+    400032: Accessory_Cloth_5_Skin
+    400034: Accessory_Cloth_6
+    400036: Accessory_Cloth_6_Skin
+    400038: Accessory_Cloth_7
+    400040: Accessory_Cloth_7_Skin
+    400042: Accessory_Cloth_8
+    400044: Accessory_Cloth_8_Skin
+    400046: Accessory_Cloth_9
+    400048: Accessory_Cloth_9_Skin
+    400050: Bip001
+    400052: Bip001 Head
+    400054: Bip001 L Calf
+    400056: Bip001 L Clavicle
+    400058: Bip001 L Finger0
+    400060: Bip001 L Finger01
+    400062: Bip001 L Finger1
+    400064: Bip001 L Finger11
+    400066: Bip001 L Finger2
+    400068: Bip001 L Finger21
+    400070: Bip001 L Finger3
+    400072: Bip001 L Finger31
+    400074: Bip001 L Foot
+    400076: Bip001 L Forearm
+    400078: Bip001 L Hand
+    400080: Bip001 L Thigh
+    400082: Bip001 L Toe0
+    400084: Bip001 L UpperArm
+    400086: Bip001 Neck
+    400088: Bip001 Pelvis
+    400090: Bip001 R Calf
+    400092: Bip001 R Clavicle
+    400094: Bip001 R Finger0
+    400096: Bip001 R Finger01
+    400098: Bip001 R Finger1
+    400100: Bip001 R Finger11
+    400102: Bip001 R Finger2
+    400104: Bip001 R Finger21
+    400106: Bip001 R Finger3
+    400108: Bip001 R Finger31
+    400110: Bip001 R Foot
+    400112: Bip001 R Forearm
+    400114: Bip001 R Hand
+    400116: Bip001 R Thigh
+    400118: Bip001 R Toe0
+    400120: Bip001 R UpperArm
+    400122: Bip001 Spine
+    400124: Bip001 Spine1
+    400126: Bip001 Spine2
+    400128: Bone002
+    400130: Bone003
+    400132: Bone003(mirrored)
+    400134: Bone004
+    400136: Bone004(mirrored)
+    400138: Bone005
+    400140: Bone005(mirrored)
+    400142: Bone006
+    400144: Bone006(mirrored)
+    400146: Bone008
+    400148: Bone008(mirrored)
+    400150: Bone009
+    400152: Bone009(mirrored)
+    400154: Bone010
+    400156: Bone010(mirrored)
+    400158: Bone011
+    400160: Bone011(mirrored)
+    400162: Bone012
+    400164: Bone012(mirrored)
+    400166: Bone013
+    400168: Bone013(mirrored)
+    400170: Bone015
+    400172: Bone016
+    400174: Bone017
+    400176: Bone018
+    400178: Bone019
+    400180: Bone020
+    400182: Bone022
+    400184: Bone023
+    400186: Bone024
+    400188: Bone025
+    400190: Bone026
+    400192: Bone027
+    400194: Bone028
+    400196: Bone029
+    400198: Bone030
+    400200: Bone031
+    400202: Bone052
+    400204: Bone052(mirrored)
+    400206: Bone053
+    400208: Bone053(mirrored)
+    400210: Bone054
+    400212: Bone054(mirrored)
+    400214: Bone055
+    400216: Bone055(mirrored)
+    400218: Bone056
+    400220: Bone056(mirrored)
+    400222: Bone057
+    400224: Bone057(mirrored)
+    400226: Bone058
+    400228: Bone058(mirrored)
+    400230: Bone059
+    400232: Bone059(mirrored)
+    400234: Bone060
+    400236: Bone060(mirrored)
+    400238: Bone061
+    400240: Bone061(mirrored)
+    400242: Bone069
+    400244: Bone070
+    400246: Bone071
+    400248: Bone072
+    400250: Bone073
+    400252: Bone075
+    400254: Bone076
+    400256: Bone077
+    400258: Bone078
+    400260: Bone079
+    400262: Bone085
+    400264: Bone085(mirrored)
+    400266: Bone086
+    400268: Bone086(mirrored)
+    400270: Bone087
+    400272: Bone087(mirrored)
+    400274: Bone091
+    400276: Bone091(mirrored)
+    400278: Bone092
+    400280: Bone092(mirrored)
+    400282: Bone093
+    400284: Bone093(mirrored)
+    400286: Bone094
+    400288: Bone095
+    400290: Bone096
+    400292: Bone097
+    400294: Bone098
+    400296: Bone101
+    400298: Bone102
+    400300: Bone103
+    400302: Bone103(mirrored)
+    400304: Bone104
+    400306: Bone104(mirrored)
+    400308: Bone105
+    400310: Bone105(mirrored)
+    400312: Bone106
+    400314: Bone106(mirrored)
+    400316: Bone107
+    400318: Bone107(mirrored)
+    400320: Bone108
+    400322: Bone109
+    400324: Bone110
+    400326: Bone111
+    400328: Bone113
+    400330: Bone113(mirrored)
+    400332: Bone114
+    400334: Bone114(mirrored)
+    400336: Bone115
+    400338: Bone115(mirrored)
+    400340: Bone116
+    400342: Bone117
+    400344: Bone117(mirrored)
+    400346: Bone118
+    400348: Bone118(mirrored)
+    400350: Bone119
+    400352: Bone119(mirrored)
+    400354: Bone120
+    400356: Bone120(mirrored)
+    400358: Bone121
+    400360: Bone121(mirrored)
+    400362: Bone127
+    400364: Bone128
+    400366: Bone129
+    400368: Bone130
+    400370: Bone131
+    400372: Bone132
+    400374: Bone133
+    400376: Bone134
+    400378: Bone141
+    400380: Bone142
+    400382: Bone143
+    400384: Bone144
+    400386: Bone145
+    400388: Bone146
+    400390: Bone150
+    400392: Bone151
+    400394: Bone152
+    400396: Bone153
+    400398: Bone154
+    400400: Bone155
+    400402: Bone156
+    400404: Bone165
+    400406: //RootNode
+    400408: Face_Brow_0
+    400410: Face_Brow_1
+    400412: Face_Brow_10
+    400414: Face_Brow_11
+    400416: Face_Brow_2
+    400418: Face_Brow_3
+    400420: Face_Brow_4
+    400422: Face_Brow_5
+    400424: Face_Brow_6
+    400426: Face_Brow_7
+    400428: Face_Brow_8
+    400430: Face_Brow_9
+    400432: Face_Ear_0
+    400434: Face_Ear_0 1
+    400436: Face_Ear_0 10
+    400438: Face_Ear_0 11
+    400440: Face_Ear_0 2
+    400442: Face_Ear_0 3
+    400444: Face_Ear_0 4
+    400446: Face_Ear_0 5
+    400448: Face_Ear_0 6
+    400450: Face_Ear_0 7
+    400452: Face_Ear_0 8
+    400454: Face_Ear_0 9
+    400456: Face_Eye_0
+    400458: Face_Eye_1
+    400460: Face_Eye_10
+    400462: Face_Eye_11
+    400464: Face_Eye_2
+    400466: Face_Eye_3
+    400468: Face_Eye_4
+    400470: Face_Eye_5
+    400472: Face_Eye_6
+    400474: Face_Eye_7
+    400476: Face_Eye_8
+    400478: Face_Eye_9
+    400480: Face_Glass_1
+    400482: Face_Glass_2
+    400484: Face_Glass_3
+    400486: Face_Glass_5
+    400488: Face_Glass_8
+    400490: Face_mouth_0
+    400492: Face_mouth_1
+    400494: Face_mouth_10
+    400496: Face_mouth_11
+    400498: Face_mouth_2
+    400500: Face_mouth_3
+    400502: Face_mouth_4
+    400504: Face_mouth_5
+    400506: Face_mouth_6
+    400508: Face_mouth_7
+    400510: Face_mouth_8
+    400512: Face_mouth_9
+    400514: Face_Mustache_1
+    400516: Face_Mustache_2
+    400518: Face_Mustache_5
+    400520: Face_Mustache_6
+    400522: Face_Nose_0
+    400524: Face_Nose_0 1
+    400526: Face_Nose_0 10
+    400528: Face_Nose_0 11
+    400530: Face_Nose_0 2
+    400532: Face_Nose_0 3
+    400534: Face_Nose_0 4
+    400536: Face_Nose_0 5
+    400538: Face_Nose_0 6
+    400540: Face_Nose_0 7
+    400542: Face_Nose_0 8
+    400544: Face_Nose_0 9
+    400546: gai_wenshen
+    400548: Hair_Hair_0
+    400550: Hair_Hair_1
+    400552: Hair_Hair_10
+    400554: Hair_Hair_11
+    400556: Hair_Hair_2
+    400558: Hair_Hair_3
+    400560: Hair_Hair_4
+    400562: Hair_Hair_5
+    400564: Hair_Hair_6
+    400566: Hair_Hair_7
+    400568: Hair_Hair_8
+    400570: Hair_Hair_9
+    400572: tattoo002
+    2100000: Skin_skin_1
+    2100002: Accessory_Cloth_0
+    2100004: Face_Brow_0
+    2100006: Face_Eye_0
+    2100008: Face_mouth_0_Alpha
+    2100010: Hair_Hair_0
+    2100012: Face_Ear_0
+    2100014: Hair_Hair_1
+    2100016: Face_mouth_1
+    2100018: Face_Brow_1
+    2100020: Face_Eye_1
+    2100022: Face_Mustache_1
+    2100024: Accessory_Cloth_1
+    2100026: Accessory_Cloth_10
+    2100028: Hair_Hair_10
+    2100030: Face_mouth_10_Alpha
+    2100032: Face_Eye_10_Alpha
+    2100034: Face_Brow_10
+    2100036: Hair_Hair_11
+    2100038: Accessory_Cloth_11
+    2100040: Face_Eye_11
+    2100042: Face_Brow_11
+    2100044: Face_mouth_11
+    2100046: Accessory_Cloth_2
+    2100048: Hair_Hair_2
+    2100050: Face_mouth_2
+    2100052: Face_Mustache_2
+    2100054: Face_Brow_2
+    2100056: Face_Eye_2
+    2100058: Hair_Hair_3
+    2100060: Face_Brow_3
+    2100062: Face_mouth_3
+    2100064: Accessory_Cloth_3
+    2100066: Face_Eye_3
+    2100068: Face_mouth_4
+    2100070: Face_Brow_4
+    2100072: Face_Eye_4
+    2100074: Hair_Hair_4
+    2100076: Accessory_Cloth_4
+    2100078: Accessory_Cloth_5
+    2100080: Face_Mustache_5
+    2100082: 'Material #21440'
+    2100084: Face_mouth_5
+    2100086: Face_Brow_5
+    2100088: Face_Eye_5
+    2100090: Hair_Hair_5
+    2100092: Hair_Hair_6
+    2100094: Accessory_Cloth_6
+    2100096: Face_mouth_6
+    2100098: Face_Brow_6
+    2100100: Face_Eye_6
+    2100102: Face_Mustache_6
+    2100104: Accessory_Cloth_7
+    2100106: Hair_Hair_7
+    2100108: Face_Eye_7
+    2100110: Face_mouth_7
+    2100112: Face_Brow_7
+    2100114: Accessory_Cloth_8
+    2100116: Hair_Hair_8
+    2100118: Face_Brow_8
+    2100120: Face_mouth_8
+    2100122: Face_Eye_8
+    2100124: Accessory_Cloth_9
+    2100126: Face_mouth_9
+    2100128: Face_Eye_9
+    2100130: Hair_Hair_9
+    2100132: Face_Brow_9
+    4300000: Face_Nose_0
+    4300002: Accessory_Cloth_0_Skin
+    4300004: Accessory_Cloth_0
+    4300006: Face_Brow_0
+    4300008: Face_Eye_0
+    4300010: Face_mouth_0
+    4300012: Hair_Hair_0
+    4300014: Face_Ear_0
+    4300016: Accessory_Cloth_1_Skin
+    4300018: Face_Nose_0
+    4300020: Hair_Hair_1
+    4300022: Face_mouth_1
+    4300024: Face_Brow_1
+    4300026: Face_Eye_1
+    4300028: Face_Mustache_1
+    4300030: Face_Glass_1
+    4300032: Accessory_Cloth_1
+    4300034: Face_Ear_0
+    4300036: Accessory_Cloth_10_Skin
+    4300038: Face_Nose_0
+    4300040: Accessory_Cloth_10
+    4300042: Hair_Hair_10
+    4300044: Face_mouth_10
+    4300046: Face_Eye_10
+    4300048: Face_Brow_10
+    4300050: Face_Ear_0
+    4300052: Accessory_Cloth_11_Skin
+    4300054: Face_Nose_0
+    4300056: Hair_Hair_11
+    4300058: Accessory_Cloth_11
+    4300060: Face_Eye_11
+    4300062: Face_Brow_11
+    4300064: Face_mouth_11
+    4300066: Face_Ear_0
+    4300068: Accessory_Cloth_2_Skin
+    4300070: Face_Nose_0
+    4300072: Accessory_Cloth_2
+    4300074: Face_Glass_2
+    4300076: Hair_Hair_2
+    4300078: Face_mouth_2
+    4300080: Face_Mustache_2
+    4300082: Face_Brow_2
+    4300084: Face_Eye_2
+    4300086: Face_Ear_0
+    4300088: Accessory_Cloth_3_Skin
+    4300090: Face_Nose_0
+    4300092: Hair_Hair_3
+    4300094: Face_Brow_3
+    4300096: Face_mouth_3
+    4300098: Face_Glass_3
+    4300100: Accessory_Cloth_3
+    4300102: Face_Eye_3
+    4300104: Face_Ear_0
+    4300106: Accessory_Cloth_4_Skin
+    4300108: Face_Nose_0
+    4300110: Face_mouth_4
+    4300112: Face_Brow_4
+    4300114: Face_Eye_4
+    4300116: Hair_Hair_4
+    4300118: Accessory_Cloth_4
+    4300120: Face_Ear_0
+    4300122: Accessory_Cloth_5_Skin
+    4300124: Face_Nose_0
+    4300126: Accessory_Cloth_5
+    4300128: Face_Mustache_5
+    4300130: Face_Ear_0
+    4300132: gai_wenshen
+    4300134: Face_mouth_5
+    4300136: Face_Brow_5
+    4300138: Face_Eye_5
+    4300140: Face_Glass_5
+    4300142: Hair_Hair_5
+    4300144: Accessory_Cloth_6_Skin
+    4300146: Face_Nose_0
+    4300148: Hair_Hair_6
+    4300150: Accessory_Cloth_6
+    4300152: Face_mouth_6
+    4300154: Face_Brow_6
+    4300156: Face_Eye_6
+    4300158: Face_Mustache_6
+    4300160: Face_Ear_0
+    4300162: Accessory_Cloth_7_Skin
+    4300164: Face_Nose_0
+    4300166: Accessory_Cloth_7
+    4300168: Hair_Hair_7
+    4300170: Face_Eye_7
+    4300172: Face_mouth_7
+    4300174: Face_Brow_7
+    4300176: Face_Ear_0
+    4300178: Accessory_Cloth_8_Skin
+    4300180: Face_Nose_0
+    4300182: Accessory_Cloth_8
+    4300184: Hair_Hair_8
+    4300186: Face_Glass_8
+    4300188: Face_Brow_8
+    4300190: Face_mouth_8
+    4300192: Face_Eye_8
+    4300194: Face_Ear_0
+    4300196: Accessory_Cloth_9_Skin
+    4300198: Face_Nose_0
+    4300200: Accessory_Cloth_9
+    4300202: Face_mouth_9
+    4300204: Face_Eye_9
+    4300206: tattoo002
+    4300208: Hair_Hair_9
+    4300210: Face_Brow_9
+    4300212: Face_Ear_0
+    9500000: //RootNode
+    13700000: Accessory_Cloth_0
+    13700002: Accessory_Cloth_0_Skin
+    13700004: Accessory_Cloth_1
+    13700006: Accessory_Cloth_10
+    13700008: Accessory_Cloth_10_Skin
+    13700010: Accessory_Cloth_11
+    13700012: Accessory_Cloth_11_Skin
+    13700014: Accessory_Cloth_1_Skin
+    13700016: Accessory_Cloth_2
+    13700018: Accessory_Cloth_2_Skin
+    13700020: Accessory_Cloth_3
+    13700022: Accessory_Cloth_3_Skin
+    13700024: Accessory_Cloth_4
+    13700026: Accessory_Cloth_4_Skin
+    13700028: Accessory_Cloth_5
+    13700030: Accessory_Cloth_5_Skin
+    13700032: Accessory_Cloth_6
+    13700034: Accessory_Cloth_6_Skin
+    13700036: Accessory_Cloth_7
+    13700038: Accessory_Cloth_7_Skin
+    13700040: Accessory_Cloth_8
+    13700042: Accessory_Cloth_8_Skin
+    13700044: Accessory_Cloth_9
+    13700046: Accessory_Cloth_9_Skin
+    13700048: Face_Brow_0
+    13700050: Face_Brow_1
+    13700052: Face_Brow_10
+    13700054: Face_Brow_11
+    13700056: Face_Brow_2
+    13700058: Face_Brow_3
+    13700060: Face_Brow_4
+    13700062: Face_Brow_5
+    13700064: Face_Brow_6
+    13700066: Face_Brow_7
+    13700068: Face_Brow_8
+    13700070: Face_Brow_9
+    13700072: Face_Ear_0
+    13700074: Face_Ear_0 1
+    13700076: Face_Ear_0 10
+    13700078: Face_Ear_0 11
+    13700080: Face_Ear_0 2
+    13700082: Face_Ear_0 3
+    13700084: Face_Ear_0 4
+    13700086: Face_Ear_0 5
+    13700088: Face_Ear_0 6
+    13700090: Face_Ear_0 7
+    13700092: Face_Ear_0 8
+    13700094: Face_Ear_0 9
+    13700096: Face_Eye_0
+    13700098: Face_Eye_1
+    13700100: Face_Eye_10
+    13700102: Face_Eye_11
+    13700104: Face_Eye_2
+    13700106: Face_Eye_3
+    13700108: Face_Eye_4
+    13700110: Face_Eye_5
+    13700112: Face_Eye_6
+    13700114: Face_Eye_7
+    13700116: Face_Eye_8
+    13700118: Face_Eye_9
+    13700120: Face_Glass_1
+    13700122: Face_Glass_2
+    13700124: Face_Glass_3
+    13700126: Face_Glass_5
+    13700128: Face_Glass_8
+    13700130: Face_mouth_0
+    13700132: Face_mouth_1
+    13700134: Face_mouth_10
+    13700136: Face_mouth_11
+    13700138: Face_mouth_2
+    13700140: Face_mouth_3
+    13700142: Face_mouth_4
+    13700144: Face_mouth_5
+    13700146: Face_mouth_6
+    13700148: Face_mouth_7
+    13700150: Face_mouth_8
+    13700152: Face_mouth_9
+    13700154: Face_Mustache_1
+    13700156: Face_Mustache_2
+    13700158: Face_Mustache_5
+    13700160: Face_Mustache_6
+    13700162: Face_Nose_0
+    13700164: Face_Nose_0 1
+    13700166: Face_Nose_0 10
+    13700168: Face_Nose_0 11
+    13700170: Face_Nose_0 2
+    13700172: Face_Nose_0 3
+    13700174: Face_Nose_0 4
+    13700176: Face_Nose_0 5
+    13700178: Face_Nose_0 6
+    13700180: Face_Nose_0 7
+    13700182: Face_Nose_0 8
+    13700184: Face_Nose_0 9
+    13700186: gai_wenshen
+    13700188: Hair_Hair_0
+    13700190: Hair_Hair_1
+    13700192: Hair_Hair_10
+    13700194: Hair_Hair_11
+    13700196: Hair_Hair_2
+    13700198: Hair_Hair_3
+    13700200: Hair_Hair_4
+    13700202: Hair_Hair_5
+    13700204: Hair_Hair_6
+    13700206: Hair_Hair_7
+    13700208: Hair_Hair_8
+    13700210: Hair_Hair_9
+    13700212: tattoo002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
